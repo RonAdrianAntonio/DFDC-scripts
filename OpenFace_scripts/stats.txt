@@ -1,0 +1,257 @@
+dfdc_train_part_1
+Total Fakes: 1591
+Total Reals: 108
+Percentage of Fakes: 0.94%
+Percentage of Reals: 0.06%
+dfdc_train_part_10
+Total Fakes: 2813
+Total Reals: 379
+Percentage of Fakes: 0.88%
+Percentage of Reals: 0.12%
+dfdc_train_part_11
+Total Fakes: 1759
+Total Reals: 359
+Percentage of Fakes: 0.83%
+Percentage of Reals: 0.17%
+dfdc_train_part_12
+Total Fakes: 1905
+Total Reals: 320
+Percentage of Fakes: 0.86%
+Percentage of Reals: 0.14%
+dfdc_train_part_13
+Total Fakes: 3264
+Total Reals: 430
+Percentage of Fakes: 0.88%
+Percentage of Reals: 0.12%
+dfdc_train_part_14
+Total Fakes: 2119
+Total Reals: 345
+Percentage of Fakes: 0.86%
+Percentage of Reals: 0.14%
+dfdc_train_part_15
+Total Fakes: 1875
+Total Reals: 398
+Percentage of Fakes: 0.82%
+Percentage of Reals: 0.18%
+dfdc_train_part_16
+Total Fakes: 1696
+Total Reals: 365
+Percentage of Fakes: 0.82%
+Percentage of Reals: 0.18%
+dfdc_train_part_17
+Total Fakes: 2009
+Total Reals: 421
+Percentage of Fakes: 0.83%
+Percentage of Reals: 0.17%
+dfdc_train_part_18
+Total Fakes: 2261
+Total Reals: 425
+Percentage of Fakes: 0.84%
+Percentage of Reals: 0.16%
+dfdc_train_part_19
+Total Fakes: 2329
+Total Reals: 423
+Percentage of Fakes: 0.85%
+Percentage of Reals: 0.15%
+dfdc_train_part_2
+Total Fakes: 1518
+Total Reals: 230
+Percentage of Fakes: 0.87%
+Percentage of Reals: 0.13%
+dfdc_train_part_20
+Total Fakes: 1748
+Total Reals: 406
+Percentage of Fakes: 0.81%
+Percentage of Reals: 0.19%
+dfdc_train_part_21
+Total Fakes: 1920
+Total Reals: 348
+Percentage of Fakes: 0.85%
+Percentage of Reals: 0.15%
+dfdc_train_part_23
+Total Fakes: 1999
+Total Reals: 411
+Percentage of Fakes: 0.83%
+Percentage of Reals: 0.17%
+dfdc_train_part_24
+Total Fakes: 2347
+Total Reals: 439
+Percentage of Fakes: 0.84%
+Percentage of Reals: 0.16%
+dfdc_train_part_25
+Total Fakes: 2132
+Total Reals: 414
+Percentage of Fakes: 0.84%
+Percentage of Reals: 0.16%
+dfdc_train_part_26
+Total Fakes: 2023
+Total Reals: 410
+Percentage of Fakes: 0.83%
+Percentage of Reals: 0.17%
+dfdc_train_part_27
+Total Fakes: 1944
+Total Reals: 409
+Percentage of Fakes: 0.83%
+Percentage of Reals: 0.17%
+dfdc_train_part_28
+Total Fakes: 1693
+Total Reals: 392
+Percentage of Fakes: 0.81%
+Percentage of Reals: 0.19%
+dfdc_train_part_29
+Total Fakes: 2106
+Total Reals: 451
+Percentage of Fakes: 0.82%
+Percentage of Reals: 0.18%
+dfdc_train_part_3
+Total Fakes: 1236
+Total Reals: 219
+Percentage of Fakes: 0.85%
+Percentage of Reals: 0.15%
+dfdc_train_part_30
+Total Fakes: 1739
+Total Reals: 497
+Percentage of Fakes: 0.78%
+Percentage of Reals: 0.22%
+dfdc_train_part_31
+Total Fakes: 2058
+Total Reals: 412
+Percentage of Fakes: 0.83%
+Percentage of Reals: 0.17%
+dfdc_train_part_32
+Total Fakes: 1904
+Total Reals: 452
+Percentage of Fakes: 0.81%
+Percentage of Reals: 0.19%
+dfdc_train_part_33
+Total Fakes: 1884
+Total Reals: 390
+Percentage of Fakes: 0.83%
+Percentage of Reals: 0.17%
+dfdc_train_part_34
+Total Fakes: 2242
+Total Reals: 416
+Percentage of Fakes: 0.84%
+Percentage of Reals: 0.16%
+dfdc_train_part_35
+Total Fakes: 2126
+Total Reals: 414
+Percentage of Fakes: 0.84%
+Percentage of Reals: 0.16%
+dfdc_train_part_36
+Total Fakes: 1975
+Total Reals: 364
+Percentage of Fakes: 0.84%
+Percentage of Reals: 0.16%
+dfdc_train_part_37
+Total Fakes: 2189
+Total Reals: 466
+Percentage of Fakes: 0.82%
+Percentage of Reals: 0.18%
+dfdc_train_part_39
+Total Fakes: 2140
+Total Reals: 416
+Percentage of Fakes: 0.84%
+Percentage of Reals: 0.16%
+dfdc_train_part_4
+Total Fakes: 1518
+Total Reals: 183
+Percentage of Fakes: 0.89%
+Percentage of Reals: 0.11%
+dfdc_train_part_40
+Total Fakes: 1965
+Total Reals: 455
+Percentage of Fakes: 0.81%
+Percentage of Reals: 0.19%
+dfdc_train_part_41
+Total Fakes: 1818
+Total Reals: 404
+Percentage of Fakes: 0.82%
+Percentage of Reals: 0.18%
+dfdc_train_part_42
+Total Fakes: 1947
+Total Reals: 437
+Percentage of Fakes: 0.82%
+Percentage of Reals: 0.18%
+dfdc_train_part_43
+Total Fakes: 2129
+Total Reals: 417
+Percentage of Fakes: 0.84%
+Percentage of Reals: 0.16%
+dfdc_train_part_44
+Total Fakes: 2230
+Total Reals: 435
+Percentage of Fakes: 0.84%
+Percentage of Reals: 0.16%
+dfdc_train_part_45
+Total Fakes: 1914
+Total Reals: 432
+Percentage of Fakes: 0.82%
+Percentage of Reals: 0.18%
+dfdc_train_part_46
+Total Fakes: 1813
+Total Reals: 389
+Percentage of Fakes: 0.82%
+Percentage of Reals: 0.18%
+dfdc_train_part_47
+Total Fakes: 1984
+Total Reals: 422
+Percentage of Fakes: 0.82%
+Percentage of Reals: 0.18%
+dfdc_train_part_48
+Total Fakes: 2041
+Total Reals: 422
+Percentage of Fakes: 0.83%
+Percentage of Reals: 0.17%
+dfdc_train_part_49
+Total Fakes: 2619
+Total Reals: 515
+Percentage of Fakes: 0.84%
+Percentage of Reals: 0.16%
+dfdc_train_part_5
+Total Fakes: 2123
+Total Reals: 360
+Percentage of Fakes: 0.86%
+Percentage of Reals: 0.14%
+dfdc_train_part_6
+Total Fakes: 3041
+Total Reals: 423
+Percentage of Fakes: 0.88%
+Percentage of Reals: 0.12%
+dfdc_train_part_7
+Total Fakes: 2135
+Total Reals: 338
+Percentage of Fakes: 0.86%
+Percentage of Reals: 0.14%
+dfdc_train_part_0
+Total Fakes: 1248
+Total Reals: 86
+Percentage of Fakes: 0.94%
+Percentage of Reals: 0.06%
+dfdc_train_part_22
+Total Fakes: 1918
+Total Reals: 491
+Percentage of Fakes: 0.80%
+Percentage of Reals: 0.20%
+dfdc_train_part_38
+Total Fakes: 2026
+Total Reals: 451
+Percentage of Fakes: 0.82%
+Percentage of Reals: 0.18%
+dfdc_train_part_8
+Total Fakes: 1539
+Total Reals: 277
+Percentage of Fakes: 0.85%
+Percentage of Reals: 0.15%
+dfdc_train_part_9
+Total Fakes: 1448
+Total Reals: 288
+Percentage of Fakes: 0.83%
+Percentage of Reals: 0.17%
+
+
+
+
+Average Percentage of Fakes: 0.84%
+Average Percentage of Reals: 0.16%
+Number of unique sources: 19154

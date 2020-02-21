@@ -13,7 +13,6 @@ This is for passing in multiple videos into FeatureExtraction, but all of the vi
 3rd arg - destination folder root
 
 """
-PROCESS_NUM = 3
 RUN_FLAGS = "-aus -pose -2Dfp -3Dfp"
 
 def run_openface(filename):
@@ -57,10 +56,9 @@ def json_to_csv(json_loc):
 
 
 def feat_extr():
-    global FEAT_EXTR
-    FEAT_EXTR = sys.argv[1]
     root_dir = sys.argv[2]
     dest_folder_root = sys.argv[3]
+    
 
 
     fake_dir, real_dir = create_results_dest(dest_folder_root)
@@ -114,4 +112,10 @@ def feat_extr():
 
 
 if __name__ == "__main__":
+    FEAT_EXTR = sys.argv[1]
+
+    PROCESS_NUM = 3
+
+    if len(sys.argv > 4):
+        PROCESS_NUM = sys.argv[4]
     feat_extr()
